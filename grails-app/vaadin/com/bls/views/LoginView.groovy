@@ -12,10 +12,7 @@ import com.vaadin.ui.TextField
 import com.vaadin.ui.VerticalLayout
 
 /**
- * Created by IntelliJ IDEA.
  * User: youngsoul
- * Date: 12/15/12
- * Time: 2:23 PM
  *
  */
 class LoginView extends NavigatorPanel  {
