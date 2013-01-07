@@ -1,0 +1,6 @@
+.classpath
+.idea
+.project
+.svn
+VaadinTest*.iml
+vaadinsupport-inplacePlugin.iml
